@@ -1,3 +1,5 @@
+// Mohammad Rashed
+
 function Stream(){
     const mediaStreamY = new MediaStream;
     const videoElement = document.querySelector('video');
